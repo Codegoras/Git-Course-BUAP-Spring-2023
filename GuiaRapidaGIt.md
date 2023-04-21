@@ -17,3 +17,17 @@ git diff hash_commit
 git commit -m "mensaje del commmit"
 6. Ver tu historial
 git log
+
+## Viajar en el tiempo y ramas
+
+### Git checkout
+
+`git checkout num_commit`
+
+```
+git checkout rama_a_moverte
+git branch rama_nueva
+git branch 
+```
+### Ramas en git
+![ramas_git](hero.svg)
